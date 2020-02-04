@@ -1,2 +1,2 @@
 # CeeLearnDo
-a project for school
+a test project for school 
